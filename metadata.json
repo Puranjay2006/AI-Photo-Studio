@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Photo Editor",
+  "description": "An Android-themed web application that allows users to upload a photo and use AI to edit it based on a text prompt.",
+  "requestFramePermissions": []
+}
